@@ -1,3 +1,16 @@
+What is Inside the project:
+
+This project is mainly based on searching the movie and getting their details.
+
+I'm using React js and OMDB API for making this website.
+
+I have also hosted my website on Netlify the link of project is given below:
+
+
+https://elastic-goldstine-0190ba.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
